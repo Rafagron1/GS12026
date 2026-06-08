@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7525249048225446279}
   - component: {fileID: 514362949940270556}
-  - component: {fileID: 2612592941793087678}
+  - component: {fileID: 9160576889011719635}
   m_Layer: 0
   m_Name: Tiro Inimigo
   m_TagString: Untagged
@@ -92,7 +92,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!114 &2612592941793087678
+--- !u!114 &9160576889011719635
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -101,8 +101,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1905604476230596640}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc45087524ea1c04581a03d27ef7eb84, type: 3}
+  m_Script: {fileID: 11500000, guid: 5a63212837730e8438f0795f09cd42e9, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Tiros
-  speed: -10
-  lifeTime: 2
+  m_EditorClassIdentifier: Assembly-CSharp::TiroInimigo
+  speed: 10
