@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 
 
-public class Nelso : MonoBehaviour
+public class Nelso : MonoBehaviour, IHit
 {
     [SerializeField] private float speed;
 
@@ -64,5 +64,9 @@ public class Nelso : MonoBehaviour
         nextPosition.y = Mathf.Clamp(nextPosition.y, minY, maxY);
 
         rb.MovePosition(nextPosition);
+    }
+    public void Hit(GameObject source)
+    {
+        Debug.Log("Você foi atingido");
     }
 }

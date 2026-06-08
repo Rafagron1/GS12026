@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class Americanos : MonoBehaviour
+public class Americanos : MonoBehaviour, IHit
 {
     [Header("Movimento")]
     public float moveSpeed = 2f;
@@ -11,6 +11,8 @@ public class Americanos : MonoBehaviour
     public Transform target;
     public Globais tiroInimigoPool;
     public float fireRate = 1f;
+
+    private float vida = 2f;
 
     private void Start()
     {
@@ -63,6 +65,18 @@ public class Americanos : MonoBehaviour
         if (projectile != null)
         {
             projectile.Launch(direction);
+        }
+    }
+    public void Hit(GameObject source)
+    {
+        if (vida > 0)
+        {
+            vida = vida-1;
+        }
+        else
+        {
+            vida = 2;
+            gameObject.SetActive(false);
         }
     }
 }

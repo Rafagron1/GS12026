@@ -1,11 +1,12 @@
 using UnityEngine;
 
-public class ObjetoMovimento : MonoBehaviour
+public class ObjetoMovimento : MonoBehaviour, IHit
 {
     [SerializeField] private float speedx;
     [SerializeField] private float speedy;
     [SerializeField] private float lifeTime;
     [SerializeField] private bool isTimed;
+    private float vida = 3;
 
     private float timer;
 
@@ -23,6 +24,33 @@ public class ObjetoMovimento : MonoBehaviour
 
         if (timer <= 0 && isTimed)
         {
+            gameObject.SetActive(false);
+        }
+    }
+    public void Hit(GameObject source)
+    {
+        if (vida > 0)
+        {
+            vida = vida - 1;
+        }
+        else
+        {
+            vida = 3;
+            gameObject.SetActive(false);
+        }
+    }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Jogador"))
+        {
+            IHit receiver =
+                other.GetComponent<IHit>();
+
+            if (receiver != null)
+            {
+                receiver.Hit(gameObject);
+            }
+
             gameObject.SetActive(false);
         }
     }

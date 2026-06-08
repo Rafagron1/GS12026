@@ -27,4 +27,19 @@ public class TiroInimigo : MonoBehaviour
     {
         gameObject.SetActive(false);
     }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Jogador"))
+        {
+            IHit receiver =
+                other.GetComponent<IHit>();
+
+            if (receiver != null)
+            {
+                receiver.Hit(gameObject);
+            }
+
+            gameObject.SetActive(false);
+        }
+    }
 }
