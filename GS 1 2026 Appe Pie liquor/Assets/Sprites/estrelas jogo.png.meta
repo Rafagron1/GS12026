@@ -1,0 +1,4147 @@
+fileFormatVersion: 2
+guid: 5f426640b83e9c747b065c8dfb1e316e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8947539183214731251
+    second: estrelas jogo_0
+  - first:
+      213: -2032352771370193215
+    second: estrelas jogo_1
+  - first:
+      213: 4185412590832667732
+    second: estrelas jogo_2
+  - first:
+      213: 401385488924056258
+    second: estrelas jogo_3
+  - first:
+      213: 7238197036717778781
+    second: estrelas jogo_4
+  - first:
+      213: -3003022379925309302
+    second: estrelas jogo_5
+  - first:
+      213: -2793510237053242277
+    second: estrelas jogo_6
+  - first:
+      213: 2851489094971700950
+    second: estrelas jogo_7
+  - first:
+      213: -4012429193638549279
+    second: estrelas jogo_8
+  - first:
+      213: 7294177188348371669
+    second: estrelas jogo_9
+  - first:
+      213: 2517887776061790134
+    second: estrelas jogo_10
+  - first:
+      213: -5733477870277709288
+    second: estrelas jogo_11
+  - first:
+      213: -6784357200197761719
+    second: estrelas jogo_12
+  - first:
+      213: 8907550605667405582
+    second: estrelas jogo_13
+  - first:
+      213: -8310637547027876874
+    second: estrelas jogo_14
+  - first:
+      213: -8531168597034017133
+    second: estrelas jogo_15
+  - first:
+      213: 2463585687438811872
+    second: estrelas jogo_16
+  - first:
+      213: 7194922731849903487
+    second: estrelas jogo_17
+  - first:
+      213: 6063082864894346920
+    second: estrelas jogo_18
+  - first:
+      213: -986074477273975182
+    second: estrelas jogo_19
+  - first:
+      213: -4387611914070632770
+    second: estrelas jogo_20
+  - first:
+      213: -3954461192844834419
+    second: estrelas jogo_21
+  - first:
+      213: 2403999396394728005
+    second: estrelas jogo_22
+  - first:
+      213: -5174077806938569753
+    second: estrelas jogo_23
+  - first:
+      213: -8298254279727645992
+    second: estrelas jogo_24
+  - first:
+      213: -4790627093670131476
+    second: estrelas jogo_25
+  - first:
+      213: 4820851837973112785
+    second: estrelas jogo_26
+  - first:
+      213: -4467795728291200003
+    second: estrelas jogo_27
+  - first:
+      213: 6623245551212170573
+    second: estrelas jogo_28
+  - first:
+      213: -6687475367492738867
+    second: estrelas jogo_29
+  - first:
+      213: -6204943596237337926
+    second: estrelas jogo_30
+  - first:
+      213: -8160881312986730974
+    second: estrelas jogo_31
+  - first:
+      213: 2397306570876219284
+    second: estrelas jogo_32
+  - first:
+      213: -4315876679392867294
+    second: estrelas jogo_33
+  - first:
+      213: 7437838191856646130
+    second: estrelas jogo_34
+  - first:
+      213: -4617513499168558793
+    second: estrelas jogo_35
+  - first:
+      213: -6345070773083483934
+    second: estrelas jogo_36
+  - first:
+      213: 6401571123077100906
+    second: estrelas jogo_37
+  - first:
+      213: -4793878754686842448
+    second: estrelas jogo_38
+  - first:
+      213: 3723341191926515232
+    second: estrelas jogo_39
+  - first:
+      213: 5978970384546152322
+    second: estrelas jogo_40
+  - first:
+      213: -2495526900769572278
+    second: estrelas jogo_41
+  - first:
+      213: 8552149616870719701
+    second: estrelas jogo_42
+  - first:
+      213: 7905115370433146219
+    second: estrelas jogo_43
+  - first:
+      213: -6798024076641495291
+    second: estrelas jogo_44
+  - first:
+      213: 4492104822089033110
+    second: estrelas jogo_45
+  - first:
+      213: 3091853340231778781
+    second: estrelas jogo_46
+  - first:
+      213: -7746867198623269816
+    second: estrelas jogo_47
+  - first:
+      213: 5433510460497652713
+    second: estrelas jogo_48
+  - first:
+      213: -4771778842013435034
+    second: estrelas jogo_49
+  - first:
+      213: 6429563067186101720
+    second: estrelas jogo_50
+  - first:
+      213: 5799027135565780856
+    second: estrelas jogo_51
+  - first:
+      213: -3417132484955279553
+    second: estrelas jogo_52
+  - first:
+      213: -9109421708644200265
+    second: estrelas jogo_53
+  - first:
+      213: 3034192761033701126
+    second: estrelas jogo_54
+  - first:
+      213: -1808539089111773795
+    second: estrelas jogo_55
+  - first:
+      213: -6402579531739729452
+    second: estrelas jogo_56
+  - first:
+      213: 2235583634972220354
+    second: estrelas jogo_57
+  - first:
+      213: 5488971045052581389
+    second: estrelas jogo_58
+  - first:
+      213: -2978966732600081554
+    second: estrelas jogo_59
+  - first:
+      213: -2865729383389785874
+    second: estrelas jogo_60
+  - first:
+      213: -251037279614794383
+    second: estrelas jogo_61
+  - first:
+      213: -7551379536950600721
+    second: estrelas jogo_62
+  - first:
+      213: 1272770680736571267
+    second: estrelas jogo_63
+  - first:
+      213: -1973988217717471674
+    second: estrelas jogo_64
+  - first:
+      213: -5618065611214355245
+    second: estrelas jogo_65
+  - first:
+      213: -3647288815040909429
+    second: estrelas jogo_66
+  - first:
+      213: -6708403474169604196
+    second: estrelas jogo_67
+  - first:
+      213: 8769175923520994294
+    second: estrelas jogo_68
+  - first:
+      213: 1635421949384131083
+    second: estrelas jogo_69
+  - first:
+      213: -3363260525828465882
+    second: estrelas jogo_70
+  - first:
+      213: 2793437238787869682
+    second: estrelas jogo_71
+  - first:
+      213: -555454664502223334
+    second: estrelas jogo_72
+  - first:
+      213: -4389846750310382508
+    second: estrelas jogo_73
+  - first:
+      213: -270891132681902762
+    second: estrelas jogo_74
+  - first:
+      213: 4661248180973234550
+    second: estrelas jogo_75
+  - first:
+      213: -7748147464569380498
+    second: estrelas jogo_76
+  - first:
+      213: -9114388855840976887
+    second: estrelas jogo_77
+  - first:
+      213: -4812065167999820487
+    second: estrelas jogo_78
+  - first:
+      213: -2216767439093781764
+    second: estrelas jogo_79
+  - first:
+      213: 3064785932755157658
+    second: estrelas jogo_80
+  - first:
+      213: 1601110420765073988
+    second: estrelas jogo_81
+  - first:
+      213: 8857367381156760238
+    second: estrelas jogo_82
+  - first:
+      213: 5304429696162571709
+    second: estrelas jogo_83
+  - first:
+      213: 4036291014233984603
+    second: estrelas jogo_84
+  - first:
+      213: 7017152150368809291
+    second: estrelas jogo_85
+  - first:
+      213: 8435938118330026859
+    second: estrelas jogo_86
+  - first:
+      213: -1441136835103805037
+    second: estrelas jogo_87
+  - first:
+      213: -3184700459499841058
+    second: estrelas jogo_88
+  - first:
+      213: -4786862275989482428
+    second: estrelas jogo_89
+  - first:
+      213: 3702200118839107349
+    second: estrelas jogo_90
+  - first:
+      213: 3131907769510923681
+    second: estrelas jogo_91
+  - first:
+      213: 5798093341649449888
+    second: estrelas jogo_92
+  - first:
+      213: 5952857295933340625
+    second: estrelas jogo_93
+  - first:
+      213: -2133145626923880878
+    second: estrelas jogo_94
+  - first:
+      213: 5166612145259863168
+    second: estrelas jogo_95
+  - first:
+      213: -7458124527095170118
+    second: estrelas jogo_96
+  - first:
+      213: 5288276424957346142
+    second: estrelas jogo_97
+  - first:
+      213: -6816002203938794100
+    second: estrelas jogo_98
+  - first:
+      213: -7417878102758887126
+    second: estrelas jogo_99
+  - first:
+      213: 5568910905083533340
+    second: estrelas jogo_100
+  - first:
+      213: -4530694818311618182
+    second: estrelas jogo_101
+  - first:
+      213: 6935695201719369532
+    second: estrelas jogo_102
+  - first:
+      213: -1870099917626671203
+    second: estrelas jogo_103
+  - first:
+      213: -5577458753230219180
+    second: estrelas jogo_104
+  - first:
+      213: 5980990376350472965
+    second: estrelas jogo_105
+  - first:
+      213: -1314114710724443457
+    second: estrelas jogo_106
+  - first:
+      213: -8347754978545809613
+    second: estrelas jogo_107
+  - first:
+      213: -3130330709543218950
+    second: estrelas jogo_108
+  - first:
+      213: -402650227390529301
+    second: estrelas jogo_109
+  - first:
+      213: -1643273340710754986
+    second: estrelas jogo_110
+  - first:
+      213: 8593065358392142627
+    second: estrelas jogo_111
+  - first:
+      213: 6830149638397654016
+    second: estrelas jogo_112
+  - first:
+      213: -5694405830756961402
+    second: estrelas jogo_113
+  - first:
+      213: 4250892551072957448
+    second: estrelas jogo_114
+  - first:
+      213: 4459611819281355075
+    second: estrelas jogo_115
+  - first:
+      213: -2265607939562664678
+    second: estrelas jogo_116
+  - first:
+      213: -7294838823473633610
+    second: estrelas jogo_117
+  - first:
+      213: -1114080451829274701
+    second: estrelas jogo_118
+  - first:
+      213: -2050362112958025013
+    second: estrelas jogo_119
+  - first:
+      213: -1616918275773664382
+    second: estrelas jogo_120
+  - first:
+      213: 6474425742313165510
+    second: estrelas jogo_121
+  - first:
+      213: -6103925920269157093
+    second: estrelas jogo_122
+  - first:
+      213: 3359952223854713465
+    second: estrelas jogo_123
+  - first:
+      213: -5773320897390012213
+    second: estrelas jogo_124
+  - first:
+      213: 6113379804017821394
+    second: estrelas jogo_125
+  - first:
+      213: 5146901152970907112
+    second: estrelas jogo_126
+  - first:
+      213: 5955237694992428936
+    second: estrelas jogo_127
+  - first:
+      213: 3155060136818111033
+    second: estrelas jogo_128
+  - first:
+      213: 5456666405402108823
+    second: estrelas jogo_129
+  - first:
+      213: -3862133954279720806
+    second: estrelas jogo_130
+  - first:
+      213: 2865769377141814759
+    second: estrelas jogo_131
+  - first:
+      213: -2950068600790915566
+    second: estrelas jogo_132
+  - first:
+      213: 95501291750933804
+    second: estrelas jogo_133
+  - first:
+      213: 6608840694797111522
+    second: estrelas jogo_134
+  - first:
+      213: -5706013398334629770
+    second: estrelas jogo_135
+  - first:
+      213: -2220499313704275805
+    second: estrelas jogo_136
+  - first:
+      213: 1517001027641488301
+    second: estrelas jogo_137
+  - first:
+      213: -6138255055243079553
+    second: estrelas jogo_138
+  - first:
+      213: -4827977792772069237
+    second: estrelas jogo_139
+  - first:
+      213: -3124005792573160804
+    second: estrelas jogo_140
+  - first:
+      213: -7891298407477752538
+    second: estrelas jogo_141
+  - first:
+      213: 8081453400222618203
+    second: estrelas jogo_142
+  - first:
+      213: -7190376106212189137
+    second: estrelas jogo_143
+  - first:
+      213: 8831101926702091405
+    second: estrelas jogo_144
+  - first:
+      213: 5150658972065130570
+    second: estrelas jogo_145
+  - first:
+      213: -4937766480725557440
+    second: estrelas jogo_146
+  - first:
+      213: -3947060051889193314
+    second: estrelas jogo_147
+  - first:
+      213: -5499455495850567939
+    second: estrelas jogo_148
+  - first:
+      213: -5170591756475349652
+    second: estrelas jogo_149
+  - first:
+      213: 6126425075361311678
+    second: estrelas jogo_150
+  - first:
+      213: 8312400648397526811
+    second: estrelas jogo_151
+  - first:
+      213: 5072801543304088215
+    second: estrelas jogo_152
+  - first:
+      213: -7741873245081581644
+    second: estrelas jogo_153
+  - first:
+      213: -7517156854908002523
+    second: estrelas jogo_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: estrelas jogo_0
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1059
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00e89ad484f3d380800000000000000
+      internalID: -8947539183214731251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_1
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1053
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cee23c1ce1abc3e0800000000000000
+      internalID: -2032352771370193215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1048
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c470b7392951a30800000000000000
+      internalID: 4185412590832667732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1018
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca905db9f1029500800000000000000
+      internalID: 401385488924056258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1028
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5729d3fadd337460800000000000000
+      internalID: 7238197036717778781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_5
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1029
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88f0006e0f1356d0800000000000000
+      internalID: -3003022379925309302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1024
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5436047d357b39d0800000000000000
+      internalID: -2793510237053242277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_7
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1026
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d630ba5936829720800000000000000
+      internalID: 2851489094971700950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1012
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e864ca38ecf058c0800000000000000
+      internalID: -4012429193638549279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1013
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d22340b18f1a3560800000000000000
+      internalID: 7294177188348371669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_10
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1021
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7167c879551f220800000000000000
+      internalID: 2517887776061790134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_11
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1004
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812b88611489e60b0800000000000000
+      internalID: -5733477870277709288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_12
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1011
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94549dc421f19d1a0800000000000000
+      internalID: -6784357200197761719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 991
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f0f95e41afd9b70800000000000000
+      internalID: 8907550605667405582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 995
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f33160ce2faaac80800000000000000
+      internalID: -8310637547027876874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 993
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ed1de6c533b9980800000000000000
+      internalID: -8531168597034017133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_16
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1001
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2e68d412a603220800000000000000
+      internalID: 2463585687438811872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_17
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 998
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7deb42ba1089d360800000000000000
+      internalID: 7194922731849903487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 977
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a609c5fdb5642450800000000000000
+      internalID: 6063082864894346920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_19
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 984
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2767104cc72c052f0800000000000000
+      internalID: -986074477273975182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_20
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 982
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb65c81f5321c13c0800000000000000
+      internalID: -4387611914070632770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_21
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 958
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d898a6a2f7eee19c0800000000000000
+      internalID: -3954461192844834419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 941
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a7c5ec6b8bc5120800000000000000
+      internalID: 2403999396394728005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 948
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3c135e5abf138b0800000000000000
+      internalID: -5174077806938569753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_24
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 952
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daf7f8d2bda6dc80800000000000000
+      internalID: -8298254279727645992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_25
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 956
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce80e664a06448db0800000000000000
+      internalID: -4790627093670131476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_26
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 933
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d72d25643b17e240800000000000000
+      internalID: 4820851837973112785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_27
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 932
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3023ed4733ff1c0800000000000000
+      internalID: -4467795728291200003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_28
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 920
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d0034ccbe7aeb50800000000000000
+      internalID: 6623245551212170573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_29
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 941
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0ab64c5905133a0800000000000000
+      internalID: -6687475367492738867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_30
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 938
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba40f6acac93e9a0800000000000000
+      internalID: -6204943596237337926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_31
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 939
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e6d4d1fa9bebe80800000000000000
+      internalID: -8160881312986730974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 926
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f69ceef91f44120800000000000000
+      internalID: 2397306570876219284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_33
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 921
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c456ec60dea14c0800000000000000
+      internalID: -4315876679392867294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_34
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 904
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7f27a9d62883760800000000000000
+      internalID: 7437838191856646130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_35
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 907
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731bc78efeb4befb0800000000000000
+      internalID: -4617513499168558793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_36
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 910
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e055afdfb7c1f7a0800000000000000
+      internalID: -6345070773083483934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_37
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 895
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65b86bf403f6d850800000000000000
+      internalID: 6401571123077100906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_38
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 880
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b94992fba8b87db0800000000000000
+      internalID: -4793878754686842448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_39
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 893
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0260c524617fba330800000000000000
+      internalID: 3723341191926515232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_40
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 884
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f347503e199f250800000000000000
+      internalID: 5978970384546152322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 845
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ab230718b1e5dd0800000000000000
+      internalID: -2495526900769572278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_42
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 859
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0829be3c65fa670800000000000000
+      internalID: 8552149616870719701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_43
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 856
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6de52bdb8c94bd60800000000000000
+      internalID: 7905115370433146219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_44
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 865
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5071b39ae1198a1a0800000000000000
+      internalID: -6798024076641495291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_45
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 840
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695af661989275e30800000000000000
+      internalID: 4492104822089033110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_46
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 840
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1ce1a4b3878ea20800000000000000
+      internalID: 3091853340231778781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_47
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 846
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c3fe7d3599d7490800000000000000
+      internalID: -7746867198623269816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_48
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 829
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebe451d9f4b76b40800000000000000
+      internalID: 5433510460497652713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_49
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 832
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b7017dc6c37cdb0800000000000000
+      internalID: -4771778842013435034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_50
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 824
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd39985b856a3950800000000000000
+      internalID: 6429563067186101720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_51
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 798
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877df3a84784a7050800000000000000
+      internalID: 5799027135565780856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_52
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 777
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3feac31c18e390d0800000000000000
+      internalID: -3417132484955279553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_53
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 782
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0d7034835d49180800000000000000
+      internalID: -9109421708644200265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_54
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 753
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607b9758d3e9b1a20800000000000000
+      internalID: 3034192761033701126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_55
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 741
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d851fc747c6e6e0800000000000000
+      internalID: -1808539089111773795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_56
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 726
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1777496d77527a0800000000000000
+      internalID: -6402579531739729452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_57
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 707
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb123ca873660f10800000000000000
+      internalID: 2235583634972220354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_58
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 726
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0683ca651ebc2c40800000000000000
+      internalID: 5488971045052581389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_59
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 726
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e638aa93a8598a6d0800000000000000
+      internalID: -2978966732600081554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_60
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 699
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee017a02f42ea38d0800000000000000
+      internalID: -2865729383389785874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_61
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 664
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1750e2b9ce2248cf0800000000000000
+      internalID: -251037279614794383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_62
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febd7efe15c143790800000000000000
+      internalID: -7551379536950600721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_63
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 665
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fd5d1d03ac9a110800000000000000
+      internalID: 1272770680736571267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_64
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 644
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646c424bc2cfa94e0800000000000000
+      internalID: -1973988217717471674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_65
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 655
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d40bb6a71f9802b0800000000000000
+      internalID: -5618065611214355245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_66
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 651
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f2b3a952a326dc0800000000000000
+      internalID: -3647288815040909429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_67
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 644
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97df183596f6e2a0800000000000000
+      internalID: -6708403474169604196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_68
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 644
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb70669a0f52b970800000000000000
+      internalID: 8769175923520994294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_69
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 637
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b020bee199f22b610800000000000000
+      internalID: 1635421949384131083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_70
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 624
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b96eefe5c4351d0800000000000000
+      internalID: -3363260525828465882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_71
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 622
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb8c405e5844c620800000000000000
+      internalID: 2793437238787869682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_72
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 614
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ed281fce0aa48f0800000000000000
+      internalID: -555454664502223334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_73
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 599
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454c85593a12413c0800000000000000
+      internalID: -4389846750310382508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_74
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 574
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65521b733f99d3cf0800000000000000
+      internalID: -270891132681902762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_75
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 581
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67968d4368410b040800000000000000
+      internalID: 4661248180973234550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_76
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 577
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61aff2beec097490800000000000000
+      internalID: -7748147464569380498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_77
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 550
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900d1de20af238180800000000000000
+      internalID: -9114388855840976887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_78
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 542
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d1751a93c183db0800000000000000
+      internalID: -4812065167999820487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_79
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 521
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaa92352c57c31e0800000000000000
+      internalID: -2216767439093781764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_80
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 523
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a924c72619e488a20800000000000000
+      internalID: 3064785932755157658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_81
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 495
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442e0e3d179483610800000000000000
+      internalID: 1601110420765073988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_82
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 479
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa0bfe64b0bbea70800000000000000
+      internalID: 8857367381156760238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_83
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 494
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5adcf54be1d9940800000000000000
+      internalID: 5304429696162571709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_84
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 496
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e8481da49c30830800000000000000
+      internalID: 4036291014233984603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_85
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 491
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41f999c3bee16160800000000000000
+      internalID: 7017152150368809291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_86
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 481
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b0d3ae509721570800000000000000
+      internalID: 8435938118330026859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_87
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 477
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39138e61fad000ce0800000000000000
+      internalID: -1441136835103805037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_88
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 471
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed91d7b2ecbadc3d0800000000000000
+      internalID: -3184700459499841058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_89
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 424
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444dde23f16a19db0800000000000000
+      internalID: -4786862275989482428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_90
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 437
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f50da946bd06330800000000000000
+      internalID: 3702200118839107349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_91
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 420
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad0cf6d585c67b20800000000000000
+      internalID: 3131907769510923681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_92
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 418
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3b293bc27f67050800000000000000
+      internalID: 5798093341649449888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_93
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 419
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbf2bacb2ccc9250800000000000000
+      internalID: 5952857295933340625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_94
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 407
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e260daa5b8562e0800000000000000
+      internalID: -2133145626923880878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_95
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cde6a4f5e73b740800000000000000
+      internalID: 5166612145259863168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_96
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 397
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb3dd7e14b6f7890800000000000000
+      internalID: -7458124527095170118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_97
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 400
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51c7a7d36bb36940800000000000000
+      internalID: 5288276424957346142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_98
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 392
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85d2f5bb12b861a0800000000000000
+      internalID: -6816002203938794100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_99
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 347
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2178e9ca276e0990800000000000000
+      internalID: -7417878102758887126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_100
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 360
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c189d4b76feb84d40800000000000000
+      internalID: 5568910905083533340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_101
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 362
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7145d0411dbf11c0800000000000000
+      internalID: -4530694818311618182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_102
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 337
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f3dd00a0a804060800000000000000
+      internalID: 6935695201719369532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_103
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 320
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fff5b78021c06e0800000000000000
+      internalID: -1870099917626671203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_104
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 324
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458d15880d2e892b0800000000000000
+      internalID: -5577458753230219180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_105
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 293
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b56630f0fb00350800000000000000
+      internalID: 5980990376350472965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_106
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 287
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2872112a353cde0800000000000000
+      internalID: -1314114710724443457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_107
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 299
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33747c74311d62c80800000000000000
+      internalID: -8347754978545809613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_108
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af01e2c0ec4de84d0800000000000000
+      internalID: -3130330709543218950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_109
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 283
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be048a360cf796af0800000000000000
+      internalID: -402650227390529301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_110
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 253
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655e0126a9be139e0800000000000000
+      internalID: -1643273340710754986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_111
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 266
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32badaa5a63b04770800000000000000
+      internalID: 8593065358392142627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_112
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 260
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004747f88e099ce50800000000000000
+      internalID: 6830149638397654016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_113
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 235
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68371d2311869f0b0800000000000000
+      internalID: -5694405830756961402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_114
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 248
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804ce05c0443efa30800000000000000
+      internalID: 4250892551072957448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_115
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 237
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34116645259b3ed30800000000000000
+      internalID: 4459611819281355075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_116
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 241
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d001a2591fe80e0800000000000000
+      internalID: -2265607939562664678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_117
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 238
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b620216db683ca90800000000000000
+      internalID: -7294838823473633610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_118
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 231
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b762815bbdf980f0800000000000000
+      internalID: -1114080451829274701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_119
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 227
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2b7348586ab83e0800000000000000
+      internalID: -2050362112958025013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_120
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 214
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2837cad156d8f89e0800000000000000
+      internalID: -1616918275773664382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_121
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 226
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2983fd8e7c9d950800000000000000
+      internalID: 6474425742313165510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_122
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 207
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dbe0b27bf7a4ba0800000000000000
+      internalID: -6103925920269157093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_123
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ad42deeb2f0ae20800000000000000
+      internalID: 3359952223854713465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_124
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 197
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc89ab07b3b01efa0800000000000000
+      internalID: -5773320897390012213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_125
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 162
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6878baa8617d450800000000000000
+      internalID: 6113379804017821394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_126
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 162
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed11e444577d6740800000000000000
+      internalID: 5146901152970907112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_127
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 154
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f2a03a12145a250800000000000000
+      internalID: 5955237694992428936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_128
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 147
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932f90c6a7609cb20800000000000000
+      internalID: 3155060136818111033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_129
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 157
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793eccf5f29f9bb40800000000000000
+      internalID: 5456666405402108823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_130
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 160
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98be2c81a1f66ac0800000000000000
+      internalID: -3862133954279720806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_131
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5fab4a01245c720800000000000000
+      internalID: 2865769377141814759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_132
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 138
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216e2dadc304f07d0800000000000000
+      internalID: -2950068600790915566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_133
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 123
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25c76a3be9435100800000000000000
+      internalID: 95501291750933804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_134
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 123
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e01786c89157bb50800000000000000
+      internalID: 6608840694797111522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_135
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 107
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67815a4cb0b20d0b0800000000000000
+      internalID: -5706013398334629770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_136
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 85
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a078ae83a33f21e0800000000000000
+      internalID: -2220499313704275805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_137
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 86
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da33970b5687d0510800000000000000
+      internalID: 1517001027641488301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_138
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f709d739c8980daa0800000000000000
+      internalID: -6138255055243079553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_139
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 64
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88a856f6c39ffcb0800000000000000
+      internalID: -4827977792772069237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_140
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 65
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c920a69884d45a4d0800000000000000
+      internalID: -3124005792573160804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_141
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 73
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dcea588e97c7290800000000000000
+      internalID: -7891298407477752538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_142
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 71
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b525425dc07172070800000000000000
+      internalID: 8081453400222618203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_143
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c14c31707a63c90800000000000000
+      internalID: -7190376106212189137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_144
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c8854c9606e8a70800000000000000
+      internalID: 8831101926702091405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_145
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48ee15bb01da7740800000000000000
+      internalID: 5150658972065130570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_146
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 50
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fb5841c87897bb0800000000000000
+      internalID: -4937766480725557440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_147
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e72049bc93939c0800000000000000
+      internalID: -3947060051889193314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_148
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6d1c72d520ea3b0800000000000000
+      internalID: -5499455495850567939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_149
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6549b4413e5e38b0800000000000000
+      internalID: -5170591756475349652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_150
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 39
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbe4f7952f650550800000000000000
+      internalID: 6126425075361311678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_151
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17167649549b5370800000000000000
+      internalID: 8312400648397526811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_152
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 40
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a81b47026366640800000000000000
+      internalID: 5072801543304088215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_153
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 35
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7cfc24d475f8490800000000000000
+      internalID: -7741873245081581644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: estrelas jogo_154
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 17
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fd0560ba1bda790800000000000000
+      internalID: -7517156854908002523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      estrelas jogo_0: -8947539183214731251
+      estrelas jogo_1: -2032352771370193215
+      estrelas jogo_10: 2517887776061790134
+      estrelas jogo_100: 5568910905083533340
+      estrelas jogo_101: -4530694818311618182
+      estrelas jogo_102: 6935695201719369532
+      estrelas jogo_103: -1870099917626671203
+      estrelas jogo_104: -5577458753230219180
+      estrelas jogo_105: 5980990376350472965
+      estrelas jogo_106: -1314114710724443457
+      estrelas jogo_107: -8347754978545809613
+      estrelas jogo_108: -3130330709543218950
+      estrelas jogo_109: -402650227390529301
+      estrelas jogo_11: -5733477870277709288
+      estrelas jogo_110: -1643273340710754986
+      estrelas jogo_111: 8593065358392142627
+      estrelas jogo_112: 6830149638397654016
+      estrelas jogo_113: -5694405830756961402
+      estrelas jogo_114: 4250892551072957448
+      estrelas jogo_115: 4459611819281355075
+      estrelas jogo_116: -2265607939562664678
+      estrelas jogo_117: -7294838823473633610
+      estrelas jogo_118: -1114080451829274701
+      estrelas jogo_119: -2050362112958025013
+      estrelas jogo_12: -6784357200197761719
+      estrelas jogo_120: -1616918275773664382
+      estrelas jogo_121: 6474425742313165510
+      estrelas jogo_122: -6103925920269157093
+      estrelas jogo_123: 3359952223854713465
+      estrelas jogo_124: -5773320897390012213
+      estrelas jogo_125: 6113379804017821394
+      estrelas jogo_126: 5146901152970907112
+      estrelas jogo_127: 5955237694992428936
+      estrelas jogo_128: 3155060136818111033
+      estrelas jogo_129: 5456666405402108823
+      estrelas jogo_13: 8907550605667405582
+      estrelas jogo_130: -3862133954279720806
+      estrelas jogo_131: 2865769377141814759
+      estrelas jogo_132: -2950068600790915566
+      estrelas jogo_133: 95501291750933804
+      estrelas jogo_134: 6608840694797111522
+      estrelas jogo_135: -5706013398334629770
+      estrelas jogo_136: -2220499313704275805
+      estrelas jogo_137: 1517001027641488301
+      estrelas jogo_138: -6138255055243079553
+      estrelas jogo_139: -4827977792772069237
+      estrelas jogo_14: -8310637547027876874
+      estrelas jogo_140: -3124005792573160804
+      estrelas jogo_141: -7891298407477752538
+      estrelas jogo_142: 8081453400222618203
+      estrelas jogo_143: -7190376106212189137
+      estrelas jogo_144: 8831101926702091405
+      estrelas jogo_145: 5150658972065130570
+      estrelas jogo_146: -4937766480725557440
+      estrelas jogo_147: -3947060051889193314
+      estrelas jogo_148: -5499455495850567939
+      estrelas jogo_149: -5170591756475349652
+      estrelas jogo_15: -8531168597034017133
+      estrelas jogo_150: 6126425075361311678
+      estrelas jogo_151: 8312400648397526811
+      estrelas jogo_152: 5072801543304088215
+      estrelas jogo_153: -7741873245081581644
+      estrelas jogo_154: -7517156854908002523
+      estrelas jogo_16: 2463585687438811872
+      estrelas jogo_17: 7194922731849903487
+      estrelas jogo_18: 6063082864894346920
+      estrelas jogo_19: -986074477273975182
+      estrelas jogo_2: 4185412590832667732
+      estrelas jogo_20: -4387611914070632770
+      estrelas jogo_21: -3954461192844834419
+      estrelas jogo_22: 2403999396394728005
+      estrelas jogo_23: -5174077806938569753
+      estrelas jogo_24: -8298254279727645992
+      estrelas jogo_25: -4790627093670131476
+      estrelas jogo_26: 4820851837973112785
+      estrelas jogo_27: -4467795728291200003
+      estrelas jogo_28: 6623245551212170573
+      estrelas jogo_29: -6687475367492738867
+      estrelas jogo_3: 401385488924056258
+      estrelas jogo_30: -6204943596237337926
+      estrelas jogo_31: -8160881312986730974
+      estrelas jogo_32: 2397306570876219284
+      estrelas jogo_33: -4315876679392867294
+      estrelas jogo_34: 7437838191856646130
+      estrelas jogo_35: -4617513499168558793
+      estrelas jogo_36: -6345070773083483934
+      estrelas jogo_37: 6401571123077100906
+      estrelas jogo_38: -4793878754686842448
+      estrelas jogo_39: 3723341191926515232
+      estrelas jogo_4: 7238197036717778781
+      estrelas jogo_40: 5978970384546152322
+      estrelas jogo_41: -2495526900769572278
+      estrelas jogo_42: 8552149616870719701
+      estrelas jogo_43: 7905115370433146219
+      estrelas jogo_44: -6798024076641495291
+      estrelas jogo_45: 4492104822089033110
+      estrelas jogo_46: 3091853340231778781
+      estrelas jogo_47: -7746867198623269816
+      estrelas jogo_48: 5433510460497652713
+      estrelas jogo_49: -4771778842013435034
+      estrelas jogo_5: -3003022379925309302
+      estrelas jogo_50: 6429563067186101720
+      estrelas jogo_51: 5799027135565780856
+      estrelas jogo_52: -3417132484955279553
+      estrelas jogo_53: -9109421708644200265
+      estrelas jogo_54: 3034192761033701126
+      estrelas jogo_55: -1808539089111773795
+      estrelas jogo_56: -6402579531739729452
+      estrelas jogo_57: 2235583634972220354
+      estrelas jogo_58: 5488971045052581389
+      estrelas jogo_59: -2978966732600081554
+      estrelas jogo_6: -2793510237053242277
+      estrelas jogo_60: -2865729383389785874
+      estrelas jogo_61: -251037279614794383
+      estrelas jogo_62: -7551379536950600721
+      estrelas jogo_63: 1272770680736571267
+      estrelas jogo_64: -1973988217717471674
+      estrelas jogo_65: -5618065611214355245
+      estrelas jogo_66: -3647288815040909429
+      estrelas jogo_67: -6708403474169604196
+      estrelas jogo_68: 8769175923520994294
+      estrelas jogo_69: 1635421949384131083
+      estrelas jogo_7: 2851489094971700950
+      estrelas jogo_70: -3363260525828465882
+      estrelas jogo_71: 2793437238787869682
+      estrelas jogo_72: -555454664502223334
+      estrelas jogo_73: -4389846750310382508
+      estrelas jogo_74: -270891132681902762
+      estrelas jogo_75: 4661248180973234550
+      estrelas jogo_76: -7748147464569380498
+      estrelas jogo_77: -9114388855840976887
+      estrelas jogo_78: -4812065167999820487
+      estrelas jogo_79: -2216767439093781764
+      estrelas jogo_8: -4012429193638549279
+      estrelas jogo_80: 3064785932755157658
+      estrelas jogo_81: 1601110420765073988
+      estrelas jogo_82: 8857367381156760238
+      estrelas jogo_83: 5304429696162571709
+      estrelas jogo_84: 4036291014233984603
+      estrelas jogo_85: 7017152150368809291
+      estrelas jogo_86: 8435938118330026859
+      estrelas jogo_87: -1441136835103805037
+      estrelas jogo_88: -3184700459499841058
+      estrelas jogo_89: -4786862275989482428
+      estrelas jogo_9: 7294177188348371669
+      estrelas jogo_90: 3702200118839107349
+      estrelas jogo_91: 3131907769510923681
+      estrelas jogo_92: 5798093341649449888
+      estrelas jogo_93: 5952857295933340625
+      estrelas jogo_94: -2133145626923880878
+      estrelas jogo_95: 5166612145259863168
+      estrelas jogo_96: -7458124527095170118
+      estrelas jogo_97: 5288276424957346142
+      estrelas jogo_98: -6816002203938794100
+      estrelas jogo_99: -7417878102758887126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
