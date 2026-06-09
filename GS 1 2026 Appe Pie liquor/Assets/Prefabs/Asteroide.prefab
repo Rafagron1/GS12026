@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3596245258879345100}
   - component: {fileID: 84275148750522341}
   - component: {fileID: 3925283083273096493}
+  - component: {fileID: -3724138736681035591}
   m_Layer: 0
   m_Name: Asteroide
   m_TagString: Inimigo
@@ -106,7 +107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5d55a7ac6e86c44194dc388221925c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ObjetoMovimento
-  speedx: -4
+  speedx: -6
   speedy: 0
   lifeTime: 5
   isTimed: 1
@@ -192,3 +193,15 @@ PolygonCollider2D:
       - {x: 2.4921703, y: -1.0006593}
       - {x: 2.7243862, y: 1.1845781}
   m_UseDelaunayMesh: 1
+--- !u!114 &-3724138736681035591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6230822008116042746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a513da4bc65f6724e851e99bac810e55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ActiveChild

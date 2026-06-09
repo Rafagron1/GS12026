@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2499672363171194804}
   - component: {fileID: 3373240385681402202}
   - component: {fileID: 1471093200926366150}
+  - component: {fileID: 5214302828786154940}
   m_Layer: 0
   m_Name: Futebola
   m_TagString: PowerUP
@@ -169,6 +170,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7cac6e644dc87f84588bb24b94a4e37c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BolaChutavel
-  speedx: -4
+  speedx: -6
   kickForce: 12
   lifeTime: 5
+--- !u!114 &5214302828786154940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6483921133707831430}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a513da4bc65f6724e851e99bac810e55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ActiveChild

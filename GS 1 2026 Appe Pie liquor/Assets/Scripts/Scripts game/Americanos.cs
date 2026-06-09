@@ -1,5 +1,4 @@
 using System.Collections;
-using UnityEditor.EditorTools;
 using UnityEngine;
 
 public class Americanos : MonoBehaviour, IHit
@@ -10,12 +9,11 @@ public class Americanos : MonoBehaviour, IHit
 
 
     [Header("Disparo")]
-    private Transform target;
-    private Globais tiroInimigoPool;
+    [SerializeField] private Transform target;
+    [SerializeField] private Globais tiroInimigoPool;
     public float fireRate = 1f;
     private Transform firePosition;
 
-    private EnemySpawner meuSpawner;
     private float vida = 2f;
     private void Awake()
     {
@@ -77,15 +75,6 @@ public class Americanos : MonoBehaviour, IHit
             projectile.Launch(direction);
         }
     }
-    public void DefinirSpawner(EnemySpawner spawner)
-    {
-        meuSpawner = spawner;
-    }
-    public void Initialize(Transform player, Globais poolManager)
-    {
-        this.target = player;
-        this.tiroInimigoPool = poolManager;
-    }
     public void Hit(GameObject source)
     {
         if (vida > 0)
@@ -94,8 +83,6 @@ public class Americanos : MonoBehaviour, IHit
         }
         else
         {
-            if (meuSpawner != null)
-                meuSpawner.Liberar();
             vida = 2;
             gameObject.SetActive(false);
         }

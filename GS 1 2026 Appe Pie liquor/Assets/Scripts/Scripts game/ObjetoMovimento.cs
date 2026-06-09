@@ -9,7 +9,6 @@ public class ObjetoMovimento : MonoBehaviour, IHit
     private float vida = 3;
 
     private float timer;
-    private EnemySpawner meuSpawner;
 
     private void OnEnable()
     {
@@ -27,8 +26,6 @@ public class ObjetoMovimento : MonoBehaviour, IHit
 
         if (timer <= 0 && isTimed)
         {
-            if (meuSpawner != null)
-                meuSpawner.Liberar();
             gameObject.SetActive(false);
         }
     }
@@ -40,8 +37,6 @@ public class ObjetoMovimento : MonoBehaviour, IHit
         }
         else
         {
-            if (meuSpawner != null)
-                meuSpawner.Liberar();
             vida = 3;
             gameObject.SetActive(false);
         }
@@ -60,10 +55,6 @@ public class ObjetoMovimento : MonoBehaviour, IHit
 
             gameObject.SetActive(false);
         }
-    }
-    public void DefinirSpawner(EnemySpawner spawner)
-    {
-        meuSpawner = spawner;
     }
 
 }

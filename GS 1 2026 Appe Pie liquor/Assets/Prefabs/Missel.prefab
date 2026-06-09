@@ -13,13 +13,14 @@ GameObject:
   - component: {fileID: 5173788575884709742}
   - component: {fileID: 1256314480658390264}
   - component: {fileID: 708228510192415288}
+  - component: {fileID: 4771963214895357927}
   m_Layer: 0
   m_Name: Missel
   m_TagString: Inimigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &8779630309176859775
 Transform:
   m_ObjectHideFlags: 0
@@ -107,7 +108,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Perseguidor
   target: {fileID: 0}
-  trackingSpeed: 2
+  trackingSpeed: 3
   trackingDuration: 3
   dashSpeed: 15
 --- !u!50 &1256314480658390264
@@ -189,3 +190,15 @@ PolygonCollider2D:
       - {x: -3.2897453, y: 0.0059027076}
       - {x: -2.6362975, y: -0.53125316}
   m_UseDelaunayMesh: 1
+--- !u!114 &4771963214895357927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6182512122474274097}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a513da4bc65f6724e851e99bac810e55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ActiveChild

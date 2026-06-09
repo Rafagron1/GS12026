@@ -9,7 +9,6 @@ public class Bola : MonoBehaviour, IHit
     private Rigidbody2D rb;
     private bool energized;
     private float timer;
-    private EnemySpawner meuSpawner;
 
     private void Awake()
     {
@@ -22,12 +21,13 @@ public class Bola : MonoBehaviour, IHit
     }
     private void Update()
     {
-        transform.Translate(Vector2.right * speedx * Time.deltaTime);
+        if (!energized)
+        {
+            transform.Translate(Vector2.right * speedx * Time.deltaTime);
+        }
         timer -= Time.deltaTime;
         if (timer <= 0)
         {
-            if (meuSpawner != null)
-                meuSpawner.Liberar();
             gameObject.SetActive(false);
         }
     }
@@ -59,9 +59,5 @@ public class Bola : MonoBehaviour, IHit
                 receiver.Hit(gameObject);
             }
         }
-    }
-    public void DefinirSpawner(EnemySpawner spawner)
-    {
-        meuSpawner = spawner;
     }
 }

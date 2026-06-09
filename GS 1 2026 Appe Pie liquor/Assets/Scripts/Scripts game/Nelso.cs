@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 public class Nelso : MonoBehaviour, IHit
 {
     [SerializeField] private float speed;
-
+    public float vida;
     [SerializeField] private float minX;
     [SerializeField] private float maxX;
     [SerializeField] private float minY;
@@ -16,6 +16,7 @@ public class Nelso : MonoBehaviour, IHit
     public Transform firePoint;
     private Rigidbody2D rb;
     private Vector2 movement;
+    [SerializeField] private GameObject overlayPanel;
 
     private void Awake()
     {
@@ -26,7 +27,7 @@ public class Nelso : MonoBehaviour, IHit
     {
         movement = Vector2.zero;
         internalCD = internalCD - Time.deltaTime;
-        if (Mouse.current.leftButton.wasPressedThisFrame && internalCD <= 0)
+        if (Mouse.current.leftButton.wasPressedThisFrame && internalCD <= 0 || Keyboard.current.spaceKey.wasPressedThisFrame && internalCD <= 0)
         {
             GameObject friendlyBullet = bulletPool.GetFriendlyBullet();
             internalCD = cD;
@@ -67,6 +68,16 @@ public class Nelso : MonoBehaviour, IHit
     }
     public void Hit(GameObject source)
     {
-        Debug.Log("Você foi atingido");
+        vida -= 1;
+        if (vida < 0)
+        {
+            AbrirOverlay();
+        }
     }
+    public void AbrirOverlay()
+    {
+        overlayPanel.SetActive(true);
+        Time.timeScale = 0f;
+    }
+
 }
