@@ -110,7 +110,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &484652289801228350
 Transform:
   m_ObjectHideFlags: 0
@@ -174,7 +174,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_MaskInteraction: 0
   m_Sprite: {fileID: 2567046489638412683, guid: e4f5a40280cbdad40a6b8f8561878b2a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -200,8 +200,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Americanos
   moveSpeed: 6
   moveDuration: 1
-  target: {fileID: 0}
-  tiroInimigoPool: {fileID: 0}
   fireRate: 1
 --- !u!61 &6406766556304729902
 BoxCollider2D:

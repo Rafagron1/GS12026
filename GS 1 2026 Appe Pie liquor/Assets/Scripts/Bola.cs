@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class BolaChutavel : MonoBehaviour, IHit
+public class Bola : MonoBehaviour, IHit
 {
     [SerializeField] private float speedx;
     [SerializeField] private float kickForce = 8f;
@@ -9,6 +9,7 @@ public class BolaChutavel : MonoBehaviour, IHit
     private Rigidbody2D rb;
     private bool energized;
     private float timer;
+    private EnemySpawner meuSpawner;
 
     private void Awake()
     {
@@ -25,6 +26,8 @@ public class BolaChutavel : MonoBehaviour, IHit
         timer -= Time.deltaTime;
         if (timer <= 0)
         {
+            if (meuSpawner != null)
+                meuSpawner.Liberar();
             gameObject.SetActive(false);
         }
     }
@@ -56,5 +59,9 @@ public class BolaChutavel : MonoBehaviour, IHit
                 receiver.Hit(gameObject);
             }
         }
+    }
+    public void DefinirSpawner(EnemySpawner spawner)
+    {
+        meuSpawner = spawner;
     }
 }

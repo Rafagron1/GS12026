@@ -82,7 +82,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_MaskInteraction: 0
   m_Sprite: {fileID: 1705834017947468226, guid: 6697bd6dfeaeb9b4aae5be2ea57975e5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -108,7 +108,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ObjetoMovimento
   speedx: -4
   speedy: 0
-  lifeTime: 10
+  lifeTime: 5
   isTimed: 1
 --- !u!50 &84275148750522341
 Rigidbody2D:

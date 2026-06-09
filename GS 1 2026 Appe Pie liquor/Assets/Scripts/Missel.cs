@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Perseguidor : MonoBehaviour, IHit
+public class Missel : MonoBehaviour, IHit
 {
     [Header("Alvo")]
     public Transform target;
@@ -18,6 +18,7 @@ public class Perseguidor : MonoBehaviour, IHit
     private Vector3 lastKnownPosition;
     private Vector3 dashDirection;
     private float vida = 1;
+    private EnemySpawner meuSpawner;
 
     private void OnEnable()
     {
@@ -35,6 +36,10 @@ public class Perseguidor : MonoBehaviour, IHit
         {
             DashToLastPosition();
         }
+    }
+    public void DefinirSpawner(EnemySpawner spawner)
+    {
+        meuSpawner = spawner;
     }
 
     private void TrackTarget()
@@ -91,6 +96,10 @@ public class Perseguidor : MonoBehaviour, IHit
             gameObject.SetActive(false);
         }
     }
+    public void Initialize(Transform player)
+    {
+        this.target = player;
+    }
     public void Hit(GameObject source)
     {
         if (vida > 0)
@@ -99,6 +108,8 @@ public class Perseguidor : MonoBehaviour, IHit
         }
         else
         {
+            if (meuSpawner != null)
+                meuSpawner.Liberar();
             vida = 1;
             gameObject.SetActive(false);
         }

@@ -8,18 +8,15 @@ public class Americanos : MonoBehaviour, IHit
     public float moveSpeed = 2f;
     public float moveDuration = 1f;
 
+
     [Header("Disparo")]
     private Transform target;
     private Globais tiroInimigoPool;
     public float fireRate = 1f;
     private Transform firePosition;
 
+    private EnemySpawner meuSpawner;
     private float vida = 2f;
-    public void Initialize(Transform player, Globais poolManager)
-    {
-        this.target = player;
-        this.tiroInimigoPool = poolManager;
-    }
     private void Awake()
     {
         if (transform.childCount > 0)
@@ -80,6 +77,15 @@ public class Americanos : MonoBehaviour, IHit
             projectile.Launch(direction);
         }
     }
+    public void DefinirSpawner(EnemySpawner spawner)
+    {
+        meuSpawner = spawner;
+    }
+    public void Initialize(Transform player, Globais poolManager)
+    {
+        this.target = player;
+        this.tiroInimigoPool = poolManager;
+    }
     public void Hit(GameObject source)
     {
         if (vida > 0)
@@ -88,6 +94,8 @@ public class Americanos : MonoBehaviour, IHit
         }
         else
         {
+            if (meuSpawner != null)
+                meuSpawner.Liberar();
             vida = 2;
             gameObject.SetActive(false);
         }
