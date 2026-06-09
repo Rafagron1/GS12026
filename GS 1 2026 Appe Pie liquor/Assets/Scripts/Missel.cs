@@ -55,7 +55,7 @@ public class Perseguidor : MonoBehaviour, IHit
         float angle =
             Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
-        transform.rotation = Quaternion.Euler(0, 0, angle-90);
+        transform.rotation = Quaternion.Euler(0, 0, angle+180);
 
         if (timer <= 0)
         {
@@ -74,7 +74,7 @@ public class Perseguidor : MonoBehaviour, IHit
         float angle =
             Mathf.Atan2(dashDirection.y, dashDirection.x) * Mathf.Rad2Deg;
 
-        transform.rotation = Quaternion.Euler(0, 0, angle-90);
+        transform.rotation = Quaternion.Euler(0, 0, angle+180);
     }
     private void OnTriggerEnter2D(Collider2D other)
     {

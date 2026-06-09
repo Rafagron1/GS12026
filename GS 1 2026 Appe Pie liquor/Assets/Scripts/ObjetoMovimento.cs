@@ -17,8 +17,10 @@ public class ObjetoMovimento : MonoBehaviour, IHit
 
     private void Update()
     {
-        transform.Translate(Vector2.right * speedx * Time.deltaTime);
+        transform.position += Vector3.right * speedx * Time.deltaTime;
         transform.Translate(Vector2.up * speedy * Time.deltaTime);
+        transform.Rotate(0f, 0f, 40 * Time.deltaTime);
+    
 
         timer -= Time.deltaTime;
 

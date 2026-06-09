@@ -1,5 +1,6 @@
-using UnityEngine;
 using System.Collections;
+using UnityEditor.EditorTools;
+using UnityEngine;
 
 public class Americanos : MonoBehaviour, IHit
 {
@@ -8,13 +9,25 @@ public class Americanos : MonoBehaviour, IHit
     public float moveDuration = 1f;
 
     [Header("Disparo")]
-    public Transform target;
-    public Globais tiroInimigoPool;
+    private Transform target;
+    private Globais tiroInimigoPool;
     public float fireRate = 1f;
+    private Transform firePosition;
 
     private float vida = 2f;
-
-    private void Start()
+    public void Initialize(Transform player, Globais poolManager)
+    {
+        this.target = player;
+        this.tiroInimigoPool = poolManager;
+    }
+    private void Awake()
+    {
+        if (transform.childCount > 0)
+        {
+            firePosition = transform.GetChild(0);
+        }
+    }
+    private void OnEnable()
     {
         StartCoroutine(MoveRoutine());
         StartCoroutine(FireRoutine());
@@ -50,7 +63,7 @@ public class Americanos : MonoBehaviour, IHit
             return;
 
         
-        bullet.transform.position = transform.position;
+        bullet.transform.position = firePosition.position;
 
         
         Vector3 direction =
