@@ -609,7 +609,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1565861990}
         m_TargetAssemblyTypeName: Jogar, Assembly-CSharp
-        m_MethodName: InicarJogo
+        m_MethodName: FecharOverlay2
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
