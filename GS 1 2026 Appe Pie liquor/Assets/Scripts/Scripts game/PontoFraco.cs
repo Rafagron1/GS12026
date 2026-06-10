@@ -4,6 +4,7 @@ public class PontoFraco : MonoBehaviour, IHit
 {
     public float bossHP;
     private float speed = 2;
+    [SerializeField] private GameObject overlayPanel;
 
     private void Awake()
     {
@@ -25,8 +26,14 @@ public class PontoFraco : MonoBehaviour, IHit
         }
         else
         {
-            Debug.Log("Cabo");
+            AbrirOverlay();
             gameObject.SetActive(false);
         }
     }
+    public void AbrirOverlay()
+    {
+        overlayPanel.SetActive(true);
+        Time.timeScale = 0f;
+    }
+
 }
